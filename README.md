@@ -1,6 +1,6 @@
 # _jQuery-flashcard_
 
-#### _An education resource with several JavaScript terms and definitions, 11.07.2016_
+#### _An educational resource with several JavaScript terms and definitions, 11.07.2016_
 
 #### By _**Kevin Mizway**_
 
