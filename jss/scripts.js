@@ -14,4 +14,20 @@ $(function() {
   $("#vNc").click(function() {        //VnC stands for variable naming conventions
     $("#vNc .definition").toggle();
   });
+
+  $("#Functions").click(function() {
+    $("#Functions .definition").toggle();
+  });
+
+  $("#Methods").click(function() {
+    $("#Methods .definition").toggle();
+  });
+
+  $("#Arguments").click(function() {
+    $("#Arguments .definition").toggle();
+  });
+
+  $("#Parameters").click(function() {
+    $("#Parameters .definition").toggle();
+  });
 });
