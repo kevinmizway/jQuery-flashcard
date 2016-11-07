@@ -1,0 +1,17 @@
+.definition {
+  display:none;
+}
+
+p {
+  font-size: 20px;
+  cursor:pointer;
+}
+
+.term p:hover {
+  text-decoration:underline;
+
+}
+
+.term p {
+  color: #0088cc;
+}
