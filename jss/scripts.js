@@ -50,4 +50,28 @@ $(function() {
   $("#Undefined").click(function() {
     $("#Undefined .definition").toggle();
   });
+
+  $("#NaN").click(function() {
+    $("#NaN .definition").toggle();
+  });
+
+  $("#Escape").click(function() {
+    $("#Escape .definition").toggle();
+  });
+
+  $("#Alert").click(function() {
+    $("#Alert .definition").toggle();
+  });
+
+  $("#Comments").click(function() {
+    $("#Comments .definition").toggle();
+  });
+
+  $("#jQuery").click(function() {
+    $("#jQuery .definition").toggle();
+  });
+
+  $("#Attributes").click(function() {
+    $("#Attributes .definition").toggle();
+  });
 });
