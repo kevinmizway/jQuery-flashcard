@@ -1,6 +1,9 @@
 $(function() {
   $("#Javascript").click(function() {
-    $(".term").toggle();
-    $(".definition").toggle();
+    $("#Javascript .definition").toggle();
+  });
+
+  $("#Operators").click(function() {
+    $("#Operators .definition").toggle();
   });
 });
