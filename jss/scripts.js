@@ -10,4 +10,8 @@ $(function() {
   $("#Variables").click(function() {
     $("#Variables .definition").toggle();
   });
+
+  $("#vNc").click(function() {        //VnC stands for variable naming conventions
+    $("#vNc .definition").toggle();
+  });
 });
