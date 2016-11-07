@@ -6,4 +6,8 @@ $(function() {
   $("#Operators").click(function() {
     $("#Operators .definition").toggle();
   });
+
+  $("#Variables").click(function() {
+    $("#Variables .definition").toggle();
+  });
 });
