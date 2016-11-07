@@ -30,4 +30,24 @@ $(function() {
   $("#Parameters").click(function() {
     $("#Parameters .definition").toggle();
   });
+
+  $("#Return").click(function() {
+    $("#Return .definition").toggle();
+  });
+
+  $("#ChainingMethods").click(function() {
+    $("#ChainingMethods .definition").toggle();
+  });
+
+  $("#Strings").click(function() {
+    $("#Strings .definition").toggle();
+  });
+
+  $("#Booleans").click(function() {
+    $("#Booleans .definition").toggle();
+  });
+
+  $("#Undefined").click(function() {
+    $("#Undefined .definition").toggle();
+  });
 });
